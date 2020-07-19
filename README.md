@@ -1,2 +1,2 @@
-# QOMIC
-Basic Solutions of Quiz OTMIC by @otmic.icg on instagram
+# OTMIC
+Basic Solutions of Quiz OTMIC & Try Out OTMIC by @otmic_icg on instagram
